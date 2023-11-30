@@ -1,6 +1,6 @@
 # form-handling
 
-
+This small application is designed to demonstrate basic form handling using Vuejs
 
 
 ## Project Setup
